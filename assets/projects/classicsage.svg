@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="124" viewBox="0 0 420 124" role="img" aria-labelledby="title">
-  <title id="title">ClassicSage</title>
-  <rect x="1" y="1" width="418" height="118" rx="12" fill="#f0f7fc" stroke="#c1d9ea"/>
-  <path d="M355 1H407Q419 1 419 13V58" fill="none" stroke="#8eb8d4"/>
-  <text x="24" y="32" fill="#6a8ca6" font-family="monospace" font-size="11" letter-spacing="2">01 / JAVA</text>
-  <text x="24" y="78" fill="#234b69" font-family="Verdana, sans-serif" font-size="27" font-weight="700">ClassicSage</text>
-  <path d="M371 65H385V79M385 65L369 81" fill="none" stroke="#4c8bb5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

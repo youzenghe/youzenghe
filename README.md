@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="youzenghe — Java and Python" width="100%" />
-</p>
-
-<p align="center"><img src="assets/avatar.png" alt="youzenghe 的头像" width="112" height="112" /></p>
+<p align="center"><img src="assets/avatar.png" alt="youzenghe's avatar" width="112" height="112" /></p>
 <h3 align="center">尤赠贺 <sub> / youzenghe</sub></h3>
-<p align="center">主要写 Java，也用 Python。</p>
-<p align="center">河南财经政法大学 · 2025—2026 届开源软件社团社长</p>
-<p align="center"><a href="mailto:skyberggrenzmb3391@gmail.com">Gmail · 联系</a></p>
+<p align="center">Java &amp; Python</p>
+<p align="center">President, Open Source Software Club · HUEL (2025–2026)</p>
+<p align="center"><a href="mailto:skyberggrenzmb3391@gmail.com">Contact via Gmail</a></p>
 
 ### Languages & tools
 
@@ -24,19 +20,28 @@
   <a href="https://www.kernel.org/" title="Linux"><img src="assets/icons/linux.svg" alt="Linux" width="42" height="42" /></a>
 </p>
 
-### Repositories
+### GitHub Stats
 
 <p>
-  <a href="https://github.com/youzenghe/ClassicSage"><img src="assets/projects/classicsage.svg" alt="ClassicSage" width="49%" /></a>
-  <a href="https://github.com/youzenghe/ContractReview2"><img src="assets/projects/contractreview.svg" alt="ContractReview2" width="49%" /></a>
-  <a href="https://github.com/youzenghe/bot"><img src="assets/projects/bot.svg" alt="bot" width="49%" /></a>
-  <a href="https://github.com/youzenghe/TangShiSongCi"><img src="assets/projects/tangshisongci.svg" alt="TangShiSongCi" width="49%" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/languages-dark.svg" />
+    <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/languages.svg" alt="Most used languages in owned public repositories" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/stats-dark.svg" />
+    <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/stats.svg" alt="Public GitHub statistics" width="49%" />
+  </picture>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/streak-dark.svg" />
+  <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/streak.svg" alt="Contribution totals and streaks over the past 365 days" width="100%" />
+</picture>
 
 ### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/snake.svg" alt="贪吃蛇沿着 youzenghe 的 GitHub 贡献记录移动" width="100%" />
+  <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/snake.svg" alt="Snake animation of youzenghe's GitHub contributions" width="100%" />
 </picture>
