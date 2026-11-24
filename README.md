@@ -1,8 +1,8 @@
 <p align="center"><img src="assets/avatar.png" alt="youzenghe's avatar" width="112" height="112" /></p>
 <h3 align="center">尤赠贺 <sub> / youzenghe</sub></h3>
 <p align="center">Java &amp; Python</p>
-<p align="center">President, Open Source Software Club · HUEL (2025–2026)</p>
-<p align="center"><a href="mailto:skyberggrenzmb3391@gmail.com">Contact via Gmail</a></p>
+<p align="center">Open Source Software Club Lead · HUEL (2025–2026)</p>
+<p align="center"><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=skyberggrenzmb3391%40gmail.com">Contact via Gmail</a></p>
 
 ### Languages & tools
 
@@ -19,24 +19,6 @@
   <a href="https://git-scm.com/" title="Git"><img src="assets/icons/git.svg" alt="Git" width="42" height="42" /></a>&nbsp;&nbsp;
   <a href="https://www.kernel.org/" title="Linux"><img src="assets/icons/linux.svg" alt="Linux" width="42" height="42" /></a>
 </p>
-
-### GitHub Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/languages-dark.svg" />
-    <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/languages.svg" alt="Most used languages in owned public repositories" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/stats-dark.svg" />
-    <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/stats.svg" alt="Public GitHub statistics" width="49%" />
-  </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzenghe/youzenghe/output/streak-dark.svg" />
-  <img src="https://raw.githubusercontent.com/youzenghe/youzenghe/output/streak.svg" alt="Contribution totals and streaks over the past 365 days" width="100%" />
-</picture>
 
 ### Contributions
 

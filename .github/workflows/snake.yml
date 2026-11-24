@@ -1,4 +1,4 @@
-name: Update profile statistics
+name: Update contribution animation
 
 on:
   schedule:
@@ -30,11 +30,6 @@ jobs:
           node-version: "24"
       - name: Check profile
         run: node --test tests/*.test.mjs
-      - name: Generate public statistics
-        run: node scripts/generate-statistics.mjs
-        env:
-          GH_TOKEN: ${{ github.token }}
-          PROFILE_USER: ${{ github.repository_owner }}
       - name: Generate light and dark animations
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
@@ -49,4 +44,4 @@ jobs:
           folder: dist
           clean: true
           force: false
-          commit-message: Update public statistics and contribution animation
+          commit-message: Update contribution animation

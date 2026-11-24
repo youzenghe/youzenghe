@@ -8,7 +8,7 @@ const read = (path) =>
 test("profile retains Gmail and excludes unrequested links and old project tiles", () => {
 	const markdown = read("README.md");
 	assert.doesNotMatch(markdown, /assets\/projects|banner\.svg/);
-	assert.ok(markdown.includes("mailto:skyberggrenzmb3391@gmail.com"));
+	assert.ok(markdown.includes("to=skyberggrenzmb3391%40gmail.com"));
 	assert.doesNotMatch(
 		markdown,
 		/PoetryNest|yzh1019\.top|youzenghe\.github\.io|GalGame|博客|次元日记|游戏|bilibili|qq\.com|163\.com/i,
@@ -52,9 +52,8 @@ test("snake workflow generates both themes and publishes only the profile output
 	assert.doesNotMatch(source, /youzenghe\.github\.io|GH_PAT|PERSONAL_TOKEN/);
 });
 
-test("workflow builds public statistics without personal credentials", () => {
+test("workflow retains only contribution generation without personal credentials", () => {
 	const source = read(".github/workflows/snake.yml");
-	assert.match(source, /node scripts\/generate-statistics\.mjs/);
-	assert.match(source, /GH_TOKEN: \$\{\{ github\.token \}\}/);
+	assert.doesNotMatch(source, /generate-statistics/);
 	assert.doesNotMatch(source, /secrets\.[A-Z_]+/);
 });
